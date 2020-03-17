@@ -1,7 +1,11 @@
 .welcome {
-  background-image: image_url('timon.png');
+  background-image: image_url('simon.jpg');
   background-size: contain;
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+body {
+  background-color: #B5311F;
 }
